@@ -6,7 +6,7 @@ python-dotenv==1.2.2
 
 # SQL
 SQLAlchemy==2.0.48
-mysql-connector-python==8.1.1
+mysql-connector-python==8.1.0
 PyMySQL==1.1.2
 
 # Jupyter and notebooks
