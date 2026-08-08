@@ -41,7 +41,3 @@ MySQL database `CricBuzz` with tables covering batting/bowling stats, match data
 ## Status
 
 All four dashboard pages are complete and tested: SQL Analytics, Live Matches, Top Player Stats, and CRUD Operations.
-
-## Deployment Notes
-
-The MySQL database currently runs on localhost, which isn't reachable from Streamlit Cloud. A cloud-hosted MySQL database will be needed before deployment.
